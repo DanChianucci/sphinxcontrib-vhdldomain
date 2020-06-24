@@ -1,11 +1,10 @@
 import pytest
 
 
-def test_setup():
-    assert 1
+def test_import():
+    from sphinxcontrib import vhdldomain
+    print(vhdldomain)
 
-def test_somethinelse():
-    assert 1
 
 
 if __name__ == '__main__':
