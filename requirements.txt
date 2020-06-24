@@ -1,0 +1,5 @@
+pbr
+
+setuptools~=47.1.1
+sphinx~=3.0.4
+docutils~=0.16
