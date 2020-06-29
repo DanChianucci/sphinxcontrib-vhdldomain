@@ -1,5 +1,5 @@
 pbr
 
-setuptools~=47.1.1
+setuptools>=42.0.0
 sphinx~=3.0.4
 docutils~=0.16
